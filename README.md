@@ -81,7 +81,7 @@ Additionally, a **user survey** was conducted to gather real-world red flags fro
 - Python 3.8+  
 - Install dependencies and clone the repo to run:  
   ```bash
-  git clone https://github.com/<your-username>/<repo-name>.gitcd <repo-name>
+  git clone https://github.com/Anusha-RG/LinkedIn-Fraudulent-Job-Detection.git
   python cse291d_final_project.py
 
 ##👩‍💻 Authors
